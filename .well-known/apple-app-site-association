@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["6TSS6T6U7T.co.hapin.app"],
+        "components": [
+          { "/": "/m/*", "comment": "Movie links open the Hapin app" }
+        ]
+      }
+    ]
+  },
+  "appclips": {
+    "apps": ["6TSS6T6U7T.co.hapin.app.Clip"]
+  }
+}
